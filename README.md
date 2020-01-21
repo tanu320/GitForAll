@@ -14,3 +14,5 @@ http://git-scm.com/download/mac
 4. Windows:
 Visit:
 http://git-scm.com/download/win
+
+Website: https://sat99.github.io/GitForAll/.
