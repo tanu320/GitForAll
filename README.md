@@ -13,6 +13,8 @@ Visit:
 http://git-scm.com/download/mac
 4. Windows:
 Visit:
-http://git-scm.com/download/win
+http://git-scm.com
+    or
+Video: https://www.youtube.com/watch?v=rWboGsc6CqI    
 
 Website: https://sat99.github.io/GitForAll/.
